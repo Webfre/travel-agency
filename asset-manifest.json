@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/travel-agency/static/css/main.9b010f38.css",
+    "main.js": "/travel-agency/static/js/main.503a5fab.js",
+    "static/media/cherry-blossom-spring-seoul-south-korea-city-cityscape-pink.jpg": "/travel-agency/static/media/cherry-blossom-spring-seoul-south-korea-city-cityscape-pink.a91bedf77136068ceb19.jpg",
+    "static/media/ekaterina-dmitrienko-krym-priroda-peizazh-vesna-sevastopol-g.jpg": "/travel-agency/static/media/ekaterina-dmitrienko-krym-priroda-peizazh-vesna-sevastopol-g.4c66978ae8ee1f008e37.jpg",
+    "static/media/peizazh-gory-priroda-ozero-otrazhenie-kamni-skaly-kanada-alb.jpg": "/travel-agency/static/media/peizazh-gory-priroda-ozero-otrazhenie-kamni-skaly-kanada-alb.56f69c1019eb27f83faa.jpg",
+    "static/media/noch-lavandy-leto.jpg": "/travel-agency/static/media/noch-lavandy-leto.e606d8694f14bb5096da.jpg",
+    "static/media/sent-helenc.jpg": "/travel-agency/static/media/sent-helenc.4d6faa20af2f1e421f85.jpg",
+    "static/media/khvar-khorvatiia.jpg": "/travel-agency/static/media/khvar-khorvatiia.9885426259430e85b579.jpg",
+    "static/media/hong-kong.jpg": "/travel-agency/static/media/hong-kong.51894237d6980ce37482.jpg",
+    "static/media/spasskaia-bashnia.jpg": "/travel-agency/static/media/spasskaia-bashnia.fec74a15b92197b9d1b8.jpg",
+    "static/media/sent-helenc2.jpg": "/travel-agency/static/media/sent-helenc2.956e7dea98748e310d88.jpg",
+    "static/media/montan2.jpg": "/travel-agency/static/media/montan2.a36eaba723ca8d03c8e9.jpg",
+    "static/media/montan1.jpg": "/travel-agency/static/media/montan1.522281ab83d2ff2e9bda.jpg",
+    "index.html": "/travel-agency/index.html",
+    "main.9b010f38.css.map": "/travel-agency/static/css/main.9b010f38.css.map",
+    "main.503a5fab.js.map": "/travel-agency/static/js/main.503a5fab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b010f38.css",
+    "static/js/main.503a5fab.js"
+  ]
+}
