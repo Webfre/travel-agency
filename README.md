@@ -1,6 +1,6 @@
 # Travel Agency
 
-![Image alt](https://github.com/Webfre/clone-youtube/blob/main/src/images/youtubeclone.png)
+![Image alt](https://github.com/Webfre/travel-agency/blob/main/src/Image/travelagency.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
@@ -34,7 +34,7 @@ If you don't know your version, you can check it with the command in the [node -
 In order to install the project locally, you will need:
 
 ```sh
-git clone
+git clone https://github.com/Webfre/travel-agency.git
 ```
 
 Start the project:
