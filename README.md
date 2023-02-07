@@ -11,7 +11,7 @@ Travel Agency - A travel agency is a private retailer or public service that pro
 
 ## Preview
 
-<a href="https://webfre.github.io/clone-youtube/" target="_blank">Follow the link 👁</a>
+<a href="https://webfre.github.io/travel-agency/#/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
