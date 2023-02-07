@@ -1,0 +1,26 @@
+.info {
+    margin: 4rem 6rem;
+    text-align: start;
+
+    &__text h2 {
+        padding-bottom: 1rem;
+        font-size: 2rem;
+    }
+
+    &__text p {
+        padding-bottom: 2rem;
+        font-size: 1.3rem;
+    }
+}
+
+.feedback {
+    font-weight: 600;
+}
+
+/* ================ MEDIA QUERIES 850px ================= */
+
+@media screen and (max-width: 850px) {
+    .info {
+        margin: 4rem 2rem;
+    }
+}

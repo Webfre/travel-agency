@@ -1,0 +1,38 @@
+.not-found {
+  margin-top: 200px;
+}
+
+.container-flex {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: auto;
+  margin-bottom:auto ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error {
+  display: flex;
+  margin-bottom: 100px;
+}
+
+.error span {
+  font-size: 90px;
+  color: #150035;
+  font-weight: 900;
+  letter-spacing: 3px;
+  text-shadow: 1px 7px 1px #fff;
+}
+
+.next-home {
+  padding: 15px;
+  font-size: 20px;
+  font-weight: 700;
+  background:#ffffff;
+  color:#ff9900;
+
+  &:hover {
+    color: #905906;
+  }
+}
